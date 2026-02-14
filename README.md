@@ -49,7 +49,7 @@ If using this tool in academic research, please cite appropriately.
 ## ⚖️ License
 [MIT License](LICENSE) - For research purposes only
 
-## 📋 Requirements - Bash
+## 📋 Installation - Bash
 
-'pip install praw pandas nltk textblob numpy
-python -m nltk.downloader punkt vader_lexicon averaged_perceptron_tagger'
+'''pip install praw pandas nltk textblob numpy
+python -m nltk.downloader punkt vader_lexicon averaged_perceptron_tagger'''
